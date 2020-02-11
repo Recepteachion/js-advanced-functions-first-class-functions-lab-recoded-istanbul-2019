@@ -9,3 +9,5 @@ const returnLastTwoDrivers(drivers){
 }
 
 selectingDrivers 
+
+createFareMultiplier()
