@@ -11,3 +11,5 @@ const returnLastTwoDrivers(drivers){
 selectingDrivers 
 
 createFareMultiplier()
+
+fareDoubler()
