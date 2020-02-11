@@ -13,3 +13,5 @@ selectingDrivers
 createFareMultiplier()
 
 fareDoubler()
+
+fareTripler()
